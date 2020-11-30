@@ -1,0 +1,8 @@
+MironCostin 7 2
+BochisAndrei 8 2
+BochisAndrei 15 2
+22chisAndrei 2 2
+AndreiBochis 6 2
+
+BochisAndrei 4 2
+MihetAlexandru 4 2

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1592424412 source:/home/bochismutiuandrei/Documents/PCD - Project/inetClient/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<string.h>
+	<unistd.h>
+

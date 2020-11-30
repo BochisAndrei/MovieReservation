@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1591921403 source:/home/bochismutiuandrei/Documents/PCD - Project/unixClient/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/un.h>
+	<unistd.h>
+

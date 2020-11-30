@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1587212488 source:/home/bochismutiuandrei/Desktop/theServer/main.cpp
+	<iostream>
+	<sys/un.h>
+	<sys/socket.h>
+	<stddef.h>
+	<errno.h>
+	<pthread.h>
+	<sys/un.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/select.h>
+	<pthread.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1592405604 source:/home/bochismutiuandrei/Documents/PCD - Project/theServer/main.cpp
+	<iostream>
+	<sys/un.h>
+	<sys/socket.h>
+	<stddef.h>
+	<errno.h>
+	<pthread.h>
+	<sys/un.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/select.h>
+	<pthread.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdio.h>
+
